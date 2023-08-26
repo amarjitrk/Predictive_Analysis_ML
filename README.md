@@ -14,8 +14,6 @@ This project focuses on predicting and analyzing dust concentration levels in a 
 - [Results](#results)
 - [Usage](#usage)
 - [Future Improvements](#future-improvements)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Background
 
@@ -67,11 +65,3 @@ The project collects data from sensors that measure dust concentrations in a spe
 - Incorporate additional features for enhanced prediction accuracy.
 - Explore other machine learning algorithms for comparison.
 
-## Contributors
-
-- [Your Name](https://github.com/yourusername)
-- [Collaborator Name](https://github.com/collaboratorusername)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
